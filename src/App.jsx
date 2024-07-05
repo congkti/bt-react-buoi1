@@ -9,8 +9,8 @@ function App() {
       <Header />
       <Banner />
 
-      <section class="py-5">
-        <div class="mx-auto max-w-7xl py-5 flex justify-between gap-10">
+      <section className="py-5">
+        <div className="mx-auto max-w-7xl py-5 flex justify-between gap-10">
           <Item />
           <Item />
           <Item />
