@@ -3,7 +3,7 @@ const Item = () => {
     <div className="w-1/4 bg-white rounded-lg shadow-lg">
       <img
         className="w-full rounded-t-lg"
-        src="public/placeholder-image.png"
+        src="//public/placeholder-image.png"
         alt=""
       />
       <div className="text-center px-3 pt-3 pb-5">
