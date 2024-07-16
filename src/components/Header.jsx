@@ -44,10 +44,10 @@ const Header = () => {
             </button>
           </div>
           <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-between">
-            <div className=" text-white font-extrabold	text-4xl text-teal-500">
+            <div className="text-white font-extrabold	text-4xl">
               <a href="/">Tailwind</a>
             </div>
-            <div className="hidden sm:ml-6 sm:block">
+            <div className="hidden sm:ml-6 sm:block content-center">
               <div className="flex space-x-4">
                 {/* Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" */}
                 <a

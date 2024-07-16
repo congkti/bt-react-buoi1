@@ -1,23 +1,12 @@
-import Banner from "./components/Banner";
+import Body from "./components/Body";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import Item from "./components/Item";
 
 function App() {
   return (
     <>
       <Header />
-      <Banner />
-
-      <section className="py-5">
-        <div className="mx-auto max-w-7xl py-5 flex justify-between gap-10">
-          <Item />
-          <Item />
-          <Item />
-          <Item />
-        </div>
-      </section>
-
+      <Body />
       <Footer />
     </>
   );
